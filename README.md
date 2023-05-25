@@ -19,3 +19,5 @@ In this project, I wanted to develop a machine learning model in order to predic
 ## Conclusion
 This project aims to provide businesses with a tool for predicting customer churn using machine learning. Using historical customer data and employing machine learning algorithms, the tool will assist in identifying customers who are likely to churn. 
 
+## Future work
+This is a work in progress. I will work on finding feature importance and interpret them in order to understand what feature(s) has the most influence in customer churn.
